@@ -1,0 +1,9 @@
+python==3.6.15
+numpy==1.14.5
+scipy==1.1.0
+scikit_learn==0.19.1
+matplotlib==2.2.2
+pandas==0.25
+TensorFlow==1.11.0
+Keras==2.2.4
+pytorch==1.6.0
